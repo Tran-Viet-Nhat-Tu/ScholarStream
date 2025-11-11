@@ -1,0 +1,5 @@
+{
+  "name": "Tìm bài nghiên cứu khoa học",
+  "description": "Giao diện truy xuất tài liệu nghiên cứu thông minh. Người dùng có thể tìm kiếm các chủ đề và ứng dụng sẽ tìm các bài báo khoa học có liên quan, đánh giá khả năng tương thích của chúng và cung cấp các chi tiết chính như tác giả, năm xuất bản và liên kết trực tiếp.",
+  "requestFramePermissions": []
+}
